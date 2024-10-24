@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Gábor Ákos
+osztály: 9.B
